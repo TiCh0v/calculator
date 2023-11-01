@@ -1,4 +1,5 @@
 # calculator
+![sample](https://github.com/TiCh0v/calculator/assets/149305459/f5c9a857-8adf-4dc0-92e2-afc291a9dc0b)
 
 [ссылка на деплой](https://tich0v.github.io/calculator/)
 
